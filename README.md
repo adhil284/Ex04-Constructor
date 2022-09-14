@@ -1,5 +1,3 @@
-### EX NO : 04
-### DATE  : 27.04.2022
 # <p align="center">Constructor</p>
 ## Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
@@ -22,7 +20,7 @@
  ## Program:
  ```c#
  using System;
-namespace arun
+namespace adhil
 {
     class Employee
     {
